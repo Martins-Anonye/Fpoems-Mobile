@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495649976887",
+    "firebase_url": "https://fpoems2.firebaseio.com",
+    "project_id": "fpoems2",
+    "storage_bucket": "fpoems2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495649976887:android:e07f31f14e254b330345b2",
+        "android_client_info": {
+          "package_name": "com.example.martins.fpoems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495649976887-4hqhbsu92rc2adc4v7nij9el32g1fj3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.martins.fpoems",
+            "certificate_hash": "523f029e49c6af2cffe1a57e1262feb9ab0e160c"
+          }
+        },
+        {
+          "client_id": "495649976887-ecf8jsak3c2d5pof16qi3basr4csm9t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDap9MNTFE-K0ODgJP32eqaAhcfiHDM9Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495649976887-ecf8jsak3c2d5pof16qi3basr4csm9t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
